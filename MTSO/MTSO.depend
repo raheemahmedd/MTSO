@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1631640581 source:d:\data structure materials\mtso\mtso.c
+	"MTSO.h"
+
+1631972252 d:\data structure materials\mtso\mtso.h
+	<stdbool.h>
+
